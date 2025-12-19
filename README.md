@@ -16,4 +16,4 @@ Projeto de e-commerce desenvolvido com HTML, CSS e JavaScript puro.
 - JavaScript
 
 ## Status
-🚧 Pronto!
+🚧 Em desenvolvimento
